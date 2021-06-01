@@ -2,6 +2,10 @@
 
 > Simple Lightweight Svelte DOB Picker
 
+### Demo
+
+[svelte-dob-picker](https://svelte.dev/repl/20876be005fe487b9ec03216f4340a47?version=3.38.2)
+
 ## Installation
 
 ```bash
