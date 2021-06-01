@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "Sandip Malla",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@rollup/plugin-typescript": "^8.2.1",
@@ -21,5 +21,28 @@
     "rollup-plugin-svelte": "^7.1.0",
     "svelte": "^3.38.2",
     "typescript": "^4.2.4"
-  }
+  },
+  "dependencies": {
+    "function-bind": "^1.1.1",
+    "deepmerge": "^4.2.2",
+    "builtin-modules": "^3.2.0",
+    "estree-walker": "^0.6.1",
+    "has": "^1.0.3",
+    "is-module": "^1.0.0",
+    "is-core-module": "^2.3.0",
+    "path-parse": "^1.0.6",
+    "picomatch": "^2.2.3",
+    "require-relative": "^0.8.7",
+    "resolve": "^1.20.0",
+    "rollup-pluginutils": "^2.8.2",
+    "tslib": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandipmalla44/svelte-dob-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sandipmalla44/svelte-dob-picker/issues"
+  },
+  "homepage": "https://github.com/sandipmalla44/svelte-dob-picker#readme"
 }
