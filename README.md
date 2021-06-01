@@ -14,7 +14,7 @@ or
 yarn add svelte-dob-picker
 ```
 
-**Note:** Install as a dev dependency (yarn add -D svelte-select) if using [Sapper](https://sapper.svelte.dev/) to avoid a SSR error.
+**Note:** Install as a dev dependency (yarn add -D svelte-dob-picker) if using [Sapper](https://sapper.svelte.dev/) to avoid a SSR error.
 
 ### Usage
 
