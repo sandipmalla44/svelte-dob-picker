@@ -10,7 +10,12 @@
     "dev": "rollup -c -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "svelte",
+    "DOBPicker",
+    "svelte-dob-picker",
+    "date-of-birth-picker"
+  ],
   "author": "Sandip Malla",
   "license": "MIT",
   "devDependencies": {
