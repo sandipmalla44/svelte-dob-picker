@@ -1,6 +1,6 @@
 {
   "name": "svelte-dob-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Date of Birth (DOB) picker for svelte apps",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
